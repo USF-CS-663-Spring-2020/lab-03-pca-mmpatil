@@ -1,4 +1,4 @@
 # readme.md
 
-**Name**:  
-**USF email address**:  
+**Name**:  Manali Patil
+**USF email address**:  mmpatil@dons.usfca.edu
